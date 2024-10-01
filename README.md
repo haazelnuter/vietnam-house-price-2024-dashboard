@@ -1,12 +1,11 @@
 # Power BI Dashboard Project for Vietnam Houase Price 2024
-This project demonstrates the end-to-end process of downloading a dataset from Kaggle, performing data cleaning, handling missing values, transforming data in Power Query, and visualizing the results in an interactive Power BI dashboard.
+This project demonstrates the end-to-end process of downloading a dataset from Kaggle, performing data cleaning, handling missing values and Outliers, transforming data in Power Query, and visualizing the results in an interactive Power BI dashboard.
+
 ## Table of Contents
 - [Dataset](#dataset)
 - [Data Cleaning](#data-cleaning)
-- [Handling Missing Values](#handling-missing-values)
-- [Transforming Data](#transforming-data)
 - [Power BI Dashboard](#power-bi-dashboard)
-- [Usage](#usage)
+  
 ## Dataset
 - The dataset used for this project is downloaded from [Kaggle](https://www.kaggle.com/).
 - To download the dataset:
