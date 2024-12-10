@@ -1,4 +1,4 @@
-# Power BI Dashboard Project for Vietnam Houase Price 2024
+# Power BI Dashboard Project for Vietnam House Price 2024
 This project demonstrates the end-to-end process of downloading a dataset from Kaggle, performing data cleaning, handling missing values and Outliers, transforming data in Power Query, and visualizing the results in an interactive Power BI dashboard.
 
 ## Table of Contents
